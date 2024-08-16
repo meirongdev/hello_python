@@ -1,0 +1,8 @@
+*.tape
+*.gif
+.git
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+Dockerfile
